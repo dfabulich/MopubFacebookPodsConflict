@@ -6,5 +6,6 @@ target 'MopubFacebookPodsConflict' do
   use_frameworks!
 
   # Pods for MopubFacebookPodsConflict
-
+  pod 'mopub-ios-sdk/Core'
+  pod 'MoPub-FacebookAudienceNetwork-Adapters'
 end
