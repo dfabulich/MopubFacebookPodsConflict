@@ -1,0 +1,6 @@
+framework module Pods_MopubFacebookPodsConflict {
+  umbrella header "Pods-MopubFacebookPodsConflict-umbrella.h"
+
+  export *
+  module * { export * }
+}
